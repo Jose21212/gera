@@ -1,16 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Gera # Your GitHub organization or username, where this repository lives
+repo: Gera # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Geraweb
+    url: https://bit.ly/geraweb
+  - name: Gera Status
+    url: https://gerastatus.betteruptime.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,7 +20,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Gera
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
