@@ -22,7 +22,7 @@
     "url": "https://gerastatus.betteruptime.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gerastatus.betteruptime.com.ico",
     "slug": "gera-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 924,
     "timeMonth": 986,
     "timeYear": 986,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   }
 ]
